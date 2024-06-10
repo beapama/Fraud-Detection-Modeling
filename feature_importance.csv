@@ -1,0 +1,7 @@
+features,importances
+merchant_state_code,0.31994951394946947
+merchant_city_code,0.3588439021842594
+card_type_code,0.03242165705436879
+cardholder_name_code,0.16210485405604677
+transaction_amount,0.05359440552440857
+number_of_items,0.07308566723144706
